@@ -1,0 +1,5 @@
+# doc-search index
+.doc-search-index
+
+# Claude Code local settings (per-machine)
+.claude/settings.local.json

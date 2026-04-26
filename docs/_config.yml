@@ -1,0 +1,6 @@
+title: Mündig
+description: Research notes for building healthier social media tooling
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-readme-index
+show_downloads: false
