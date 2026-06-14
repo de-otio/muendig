@@ -2,6 +2,8 @@
 
 > A De Otio research project: building blocks for healthier social media.
 
+📖 **Read the docs:** **[de-otio.github.io/muendig](https://de-otio.github.io/muendig/)**
+
 *Mündig* (German, "of age, autonomous, capable of speaking for oneself") is from Kant's *(Un)mündigkeit* in *Was ist Aufklärung?* (1784) — the human condition of being held in self-imposed or imposed tutelage, and the call to emerge from it. The project's working thesis: today's dominant social-media platforms keep their users in a kind of infrastructural tutelage — a *technofeudal vassalage* — and the way out is not yet another platform but the *building blocks* of one, in forms that resist concentration.
 
 ## What this project produces
