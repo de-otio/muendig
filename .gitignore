@@ -3,3 +3,6 @@
 
 # Claude Code local settings (per-machine)
 .claude/settings.local.json
+
+# scratch / handoff files
+tmp/

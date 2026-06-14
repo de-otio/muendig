@@ -8,6 +8,7 @@ This folder is the research underpinning the [Mündig project](https://github.co
 docs/
 ├── ai-assisted-research.md     # methodology disclosure: how AI is used and the failure modes
 ├── licensing.md                # per-component licensing framework
+├── research-landscape.md       # European research centres in critical tech/AI studies (scoping reference)
 └── techno-feudalism/           # the orienting critique and design notes
     ├── README.md               # the techno-feudal thesis
     ├── enlightenment-lineage.md   # philosophical genealogy (Locke, Kant, Mill, etc.)
@@ -39,6 +40,7 @@ docs/
 - **For the design sketch the project is building toward:** [techno-feudalism/habermas/deliberative-social-app/](techno-feudalism/habermas/deliberative-social-app/).
 - **For the methodology disclosure (AI assistance):** [ai-assisted-research.md](ai-assisted-research.md).
 - **For the licensing framework:** [licensing.md](licensing.md).
+- **For the academic neighbourhood (who else researches this):** [research-landscape.md](research-landscape.md).
 
 ## A note on origin
 
