@@ -12,6 +12,12 @@ Mündig is a research project. Its intended output is **technical components** �
 
 Mündig is *not* trying to build a complete social-media platform. The honest scope question — whether Mündig is a general-purpose toolkit or a focused *deliberative publication and discussion* toolkit — is open and discussed in [docs/techno-feudalism/habermas/deliberative-social-app/open-questions.md](docs/techno-feudalism/habermas/deliberative-social-app/open-questions.md).
 
+## What kind of project this is
+
+First and foremost, Mündig is a project done for the joy of it — a way to learn an interesting body of thought and to experiment with AI-assisted research as a method on a topic worth thinking about. It is **not** an academic, peer-reviewed research project, and it does not claim the authority of one: there is no domain expert in the loop, no peer review, no institutional vetting.
+
+What it does aim at is an honest *effort* toward scientific standards — cited sources, confidence calibrated to the evidence, disclosed method, openness to correction. The aspiration is quality; the standing is that of an enthusiast learning in public. Read the docs as a careful learner's working notes, not as settled scholarship. [`docs/ai-assisted-research.md`](docs/ai-assisted-research.md) sets out what that means in practice and the failure modes it invites.
+
 ## Two evaluation tests
 
 Every component proposed for Mündig is evaluated against:

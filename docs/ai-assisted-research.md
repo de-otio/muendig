@@ -4,6 +4,10 @@ The Mündig research notes in [`techno-feudalism/`](techno-feudalism/) draw on p
 
 This document is a disclosure about that method.
 
+## A learning project, not an academic one
+
+Before the disclosure proper, the framing that governs everything below: Mündig is a project done for fun — to learn an interesting body of thought and to experiment with AI-assisted research as a method. It makes no claim to be academic, peer-reviewed scholarship, and should not be read as carrying that kind of authority. What it *does* aim at is the practice of scientific standards — citing sources, calibrating confidence to the evidence, disclosing method, inviting correction — pursued by an enthusiast learning in public rather than by a credentialed expert. The aspiration is quality; the standing is amateur. The rest of this document is about how the method tries to live up to that aspiration, and where it can fail.
+
 ## Why be transparent about it
 
 A research project that critiques opaque, lord-mediated knowledge infrastructures cannot in good faith hide that its own knowledge production runs through an opaque, AI-mediated layer. Publishing the methodology — and naming the failure modes — is the structurally honest move and is congruent with the deliberative norms the project is building toward.
