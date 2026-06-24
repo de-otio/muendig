@@ -27,6 +27,22 @@ Every component proposed for Mündig is evaluated against:
 
 A component that fails either test is not a Mündig component.
 
+### What the tests point toward: Public AI
+
+The two tests are *filters* — they say what to avoid. The constructive name for
+what they point toward is **Public AI**: digital infrastructure with *public
+attributes* (openness, interoperability), *public functions* (serving knowledge
+sharing, participation, and civic discourse rather than private gain), and
+*public control* (governance for accountability, not capture). It is a useful
+distinction from adjacent ideas — not merely *open-source* (openness at the code
+level only), not *sovereign* (national competitiveness), not only *ethical*
+(harm-mitigation inside an extractive structure), but *public*: governed in the
+public interest, with reciprocity. Mündig's building blocks are intended as
+candidate **Public AI components** for the public-knowledge ecosystem. The frame
+is descriptive, not prescriptive — Mündig offers building blocks; it does not
+tell anyone they *ought* to use them. See [`docs/research-landscape.md`](docs/research-landscape.md#public-ai--the-public-knowledge-coalition)
+for the institutions and policy context now forming around this idea.
+
 ## Documentation
 
 The research underpinning the project lives in [`docs/`](docs/). Start with [`docs/README.md`](docs/README.md) for an orientation map.
@@ -62,3 +78,5 @@ The project will eventually be open source under a **per-component** licensing a
 ## About De Otio
 
 [De Otio](http://de-otio.org) is the parent organisation. Its mission is to provide state-of-the-art technological tools to creative thinkers, activists, artists, and similar publishers — guided by the values of creative autonomy, individualism, free thought, freedom of expression, and the spreading of joy. Mündig follows from that mission directly.
+
+De Otio also develops [**Trellis**](https://github.com/de-otio/trellis), an open social-network platform core (public-interest digital infrastructure for the social layer). Mündig and Trellis are complementary: Trellis is the generic social substrate; Mündig researches the deliberative *building blocks* — composer affordances, structured-reply templates, validity-claim tagging — that could sit beside or atop such a substrate. Both belong to the same emerging coalition of public-knowledge infrastructure (see [Public AI](#what-the-tests-point-toward-public-ai)).

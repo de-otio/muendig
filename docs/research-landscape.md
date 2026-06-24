@@ -57,6 +57,38 @@ Very strong on STS and critical data studies.
 - **[ETH Zürich](https://ets.ethz.ch/the-group.html)** and **[EPFL](https://c4dt.epfl.ch/ai-ethics-week/)** — ethics/society-of-technology work alongside technical AI (ETH's Professorship for Ethics, Technology and Society; EPFL's College of Humanities and Center for Digital Trust).
 - **Vienna** — the [Institute of Technology Assessment (ITA)](https://en.wikipedia.org/wiki/Institute_of_Technology_Assessment) at the Austrian Academy of Sciences is the best critical-tech-studies fit. The [Complexity Science Hub (CSH)](https://csh.ac.at/about-us/) is also in Vienna but is a *complexity-science / computational* institute — list it for quantitative big-data work, not as a critical-STS centre.
 
+## Public AI — the public-knowledge coalition
+
+Distinct from the academic centres above, a policy-and-practice coalition has
+formed around **Public AI**: the position that AI and the infrastructure beneath
+it should be governed as a public good rather than left to a few private actors.
+These are foundations, institutions, and policy bodies rather than university
+research groups, but they are the nearest *institutional* neighbours to Mündig's
+concerns — useful as prior art, potential collaborators, and a sense of where
+public funding and policy are heading.
+
+- **[Open Future Foundation](https://openfuture.eu/)** (Warsaw/Amsterdam) — the
+  intellectual engine of the European Public AI / digital-commons argument
+  (Alek Tarkowski, Paul Keller). Work on commons-based data-set governance, the
+  digital public space, and "AI and the commons."
+- **[Europeana](https://www.europeana.eu/) / the common European data space for
+  cultural heritage** — steward of a large public cultural dataset and author of
+  *The case for Public AI: making it happen with cultural heritage* (2026), which
+  frames cultural institutions as a public-interest counterweight in the AI data
+  supply chain.
+- **Bertelsmann Stiftung** — the *Public AI* white paper
+  (Sieker/Tarkowski/Gimpel/Osborne, 2025) supplies the working definition
+  (public attributes / functions / control).
+- **EU policy context** — the AI Continent Action Plan, the Data Union Strategy,
+  and a forthcoming *AI Strategy for the Cultural and Creative Sectors* (expected
+  2027) are the policy vehicles this coalition pushes on; they also describe a
+  funding channel for public-interest digital infrastructure.
+
+*Verification note:* these are 2025–2026 institutional positions and named
+publications; programme names, dates, and budgets in EU AI policy move quickly,
+so treat anything load-bearing as needing a re-check. This list situates Mündig
+in the public-interest-infrastructure conversation; it is not a design claim.
+
 ## A useful way to categorise them
 
 The emphasis differs across centres; matching emphasis to whichever angle matters most is worthwhile:
